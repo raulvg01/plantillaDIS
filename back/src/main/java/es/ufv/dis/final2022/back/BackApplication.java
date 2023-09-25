@@ -11,6 +11,15 @@ public class BackApplication {
 
 		// escribe por consola
 		System.out.println("Hola mundo");
+		//bucle escriba numeros de 1  a 10
+		for (int i = 1; i <= 10; i++) {
+			System.out.println(i);
+		}
+
+		//suma i + 5
+		for (int i = 1; i <= 10; i++) {
+			System.out.println(i+5);
+		}
 
 	}
 
